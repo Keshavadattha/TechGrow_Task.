@@ -1,0 +1,104 @@
+Css 
+
+
+
+.detailed-view-bg-container {
+    background-image: url("https://img.freepik.com/free-vector/white-abstract-wallpaper_23-2148830026.jpg?ga=GA1.1.1885524020.1732594702&semt=ais_hybrid");
+    height: 1200px;
+    background-size: cover;
+    background-position:center;
+}
+
+.detailed-view-heading {
+    color: gold;
+  font-family: "Sans-serif";
+    font-size: 20px;
+font-weight: bold;
+    padding: 5px;
+    background-color:black;
+}
+.detailed-view-card-container {
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 10px;
+    margin: 10px;
+}
+
+.detailed-view-card-heading {
+    color: black;
+font-family: "Roboto";
+ font-size: 23px;
+    font-weight: bold;
+}
+
+.detailed-view-card-description {
+    color:BROWN;
+ font-family: "Roboto";
+    font-size: 20px;
+    font-weight:bold;
+}
+.detailed-view-card-text-container {
+    padding: 16px;
+}
+
+.btn {
+    background-color:black;
+border-radius:100px;
+color: White;
+    border-width: 5px;
+ font-family:"Brush Script MT";
+    width:15%;
+ justify-content:center;
+ margin:15px;
+ padding:2px;
+ 
+}
+.h2{
+     color:#8F00FF;
+    font-family: "Brush Script MT";
+    font-size: 35px;
+}
+.h3{
+     color:black;
+    font-family: "sans-serif";
+    font-size: 15px;
+}
+
+
+
+.fa {
+  font-size: 15px;
+  width: 15px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 30%;
+}
+.carousel{
+    background:0;
+    margin-top: 10px;
+}
+.carousel .item {
+margin:5px; 
+    /* Align slide image horizontally center */
+}
+.bs-example{
+	margin: 5px;
+}
+    .item{
+        height: 450px;
+    }
+    .container{
+        background-image:url('https://img.freepik.com/free-photo/hand-painted-watercolor-background-with-sky-clouds-shape_24972-1095.jpg?ga=GA1.1.1885524020.1732594702&semt=ais_hybrid');
+        border-radius:15px;
+        padding:0px;
+    height:cover;
+    width:140px;
+    background-size: cover;
+    background-position:center;
+     font-family: "Sans-serif";
+    font-size: 10px;
+        
+    }
+    
+
+
+    
